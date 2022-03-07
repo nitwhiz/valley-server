@@ -1,0 +1,10 @@
+{
+  "Name": "ValleyServer",
+  "Author": "nitwhiz",
+  "Version": "1.0.0",
+  "Description": "Get live data from the game via HTTP",
+  "UniqueID": "nitwhiz.valleyserver",
+  "EntryDll": "ValleyServer.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
